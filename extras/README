@@ -1,0 +1,7 @@
+About / extras / getweb
+
+This file is created by compiling foo2js. If you are using an already compiled version, 
+from the official Debian repositories (for example), you can overwrite this file (/ usr / sbin / getweb)
+to replace the original paths, which are not working today, at least temporarily . 
+
+I advise keeping a backup copy of your original getweb.
